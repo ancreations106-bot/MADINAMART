@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Shopping Bag Icon for Madina Mart -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,36 C38,27.16 45.16,20 54,20 C62.84,20 70,27.16 70,36 L78,36 C80.21,36 82,37.79 82,40 L82,80 C82,84.42 78.42,88 74,88 L34,88 C29.58,88 26,84.42 26,80 L26,40 C26,37.79 27.79,36 30,36 L38,36 Z M44,36 L64,36 C64,30.48 59.52,26 54,26 C48.48,26 44,30.48 44,36 Z" />
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M54,50 L58,62 L70,62 L60,70 L64,82 L54,74 L44,82 L48,70 L38,62 L50,62 Z" />
+</vector>
